@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Ariq Isaac 👋
 
-<!--
-**ariq-isaac/ariq-isaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT/Multimedia Student & Programmer specializing in Full-Stack
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Primary (Full Stack):** JavaScript · TypeScript · HTML · CSS · Tailwind  
+**Secondary (Python / Tooling):** Python · scripting · CLI tools  
+**Environment:** WSL2 · Git · VS Code / NeoVim
+
+
+---
+
+## 🌐 Front-End Projects
+
+### [Landing Page Boilerplate](https://github.com/ariq-isaac/landing-page-project)
+A static landing page built with HTML and CSS, practising core layout fundamentals from The Odin Project. The page includes a navigation bar with a logo and links, a hero section with a headline, supporting subtext, and a call-to-action button, laid out using Flexbox. Built as a structured exercise in translating a design into semantic HTML and a separate stylesheet.
+
+---
+
+## ⚙️ Back-End Projects
+
+### [Flask Web App](https://github.com/ariq-isaac/first-flask-project)
+A multi-page web application built with Flask and Python, following the 30 Days of Python curriculum. It serves three routes: a home page, an about page, and a text analyzer, using Jinja2 templates and a static/css directory for styling. The app handles both GET and POST requests and demonstrates core Flask concepts: routing, render_template, form handling with request.form, and redirects with url_for.
+
+---
+## 🐍 Python Projects
+
+### [Budget App](https://github.com/ariq-isaac/Python-budget-app)
+A budget category manager built as part of the freeCodeCamp Python certification. Supports deposits, withdrawals, transfers between categories, ledger display, and a spending bar chart across categories.
+
+### [User Configuration Manager](https://github.com/ariq-isaac/python-user-configuration-manager)
+A utility module for managing key-value application settings. Supports add, update, delete, and view operations with input normalization and error handling.
+
+### [Polygon Area Calculator](https://github.com/ariq-isaac/python-poligon-area-calculator)
+An interactive CLI script for computing the area of common shapes — triangles, rectangles, circles, and regular polygons. No external dependencies.
+
+---
+
+
+
+## 📚 Currently Learning
+
+Working through [The Odin Project](https://www.theodinproject.com/) Foundations track — building toward a deployable full-stack JS/TS SaaS.
+
+---
+
+## 📫 Connect
+
+[GitHub](https://github.com/ariq-isaac) · [LinkedIn](https://www.linkedin.com/in/ariq-isaac)
