@@ -36,9 +36,15 @@ A utility module for managing key-value application settings. Supports add, upda
 An interactive CLI script for computing the area of common shapes — triangles, rectangles, circles, and regular polygons. No external dependencies.
 
 ---
+## 🛜 JavaScript Projects
 
+### [Rock Paper Scissors](https://github.com/ariq-isaac/rock-paper-scissors)
+rock-paper-scissors is a browser-based implementation of the classic Rock Paper Scissors game, built with vanilla HTML and JavaScript (index.html + main.js)
 
+### [Shopping List](https://github.com/ariq-isaac/shopping-list)
+A browser-based shopping list app where you can add and remove items
 
+---
 ## 📚 Currently Learning
 
 Working through [The Odin Project](https://www.theodinproject.com/) Foundations track — building toward a deployable full-stack JS/TS SaaS.
