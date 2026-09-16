@@ -52,8 +52,3 @@ An Etch-A-Sketch game where users can color the grid when their mouse hover over
 
 Working through [The Odin Project](https://www.theodinproject.com/) Foundations track — building toward a deployable full-stack JS/TS SaaS.
 
----
-
-## 📫 Connect
-
-[GitHub](https://github.com/ariq-isaac) · [LinkedIn](https://www.linkedin.com/in/ariq-isaac)
