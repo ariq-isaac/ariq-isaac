@@ -1,11 +1,11 @@
-# Hi, I'm Ariq Isaac 👋
+## About Me
 
-IT/Multimedia Student & Programmer specializing in Full-Stack
+I'm a 18 year-old, Malaysian based programmer and student in IT/Multimedia
 
 ## 🛠 Tech Stack
 
-**Primary (Full Stack):** JavaScript · TypeScript · HTML · CSS · Tailwind  
-**Secondary (Python / Tooling):** Python · scripting · CLI tools  
+**Primary (Full Stack):** JavaScript · TypeScript · HTML · CSS  
+**Secondary (Python / Tooling):** Python  
 **Environment:** WSL2 · Git · VS Code / NeoVim
 
 
