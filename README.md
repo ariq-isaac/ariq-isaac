@@ -29,6 +29,9 @@ A multi-page web application built with Flask and Python, following the 30 Days 
 ### [Budget App](https://github.com/ariq-isaac/Python-budget-app)
 A budget category manager built as part of the freeCodeCamp Python certification. Supports deposits, withdrawals, transfers between categories, ledger display, and a spending bar chart across categories.
 
+## [Rock Paper Scissors (With Tkinter)](https://github.com/ariq-isaac/rock-paper-scissors-tkinter)
+A simple Rock Paper Scissor desktop application made with Python and Tkinter
+
 ### [User Configuration Manager](https://github.com/ariq-isaac/python-user-configuration-manager)
 A utility module for managing key-value application settings. Supports add, update, delete, and view operations with input normalization and error handling.
 
