@@ -50,8 +50,3 @@ A browser-based shopping list app where you can add and remove items
 ### [Etch-A-Sketch](https://github.com/ariq-isaac/etch-a-sketch)
 An Etch-A-Sketch game where users can color the grid when their mouse hover over them
 
----
-## 📚 Currently Learning
-
-Working through [The Odin Project](https://www.theodinproject.com/) Foundations track — building toward a deployable full-stack JS/TS SaaS.
-
