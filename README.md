@@ -5,7 +5,7 @@ I'm a 18 year-old, Malaysian based programmer and student in IT/Multimedia
 ## 🛠 Tech Stack
 
 **Primary (Full Stack):** JavaScript · TypeScript · HTML · CSS  
-**Secondary (Python / Tooling):** Python  
+**Secondary :** Python, Go  
 **Environment:** WSL2 · Git · VS Code / NeoVim
 
 
